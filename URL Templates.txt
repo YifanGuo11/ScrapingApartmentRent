@@ -1,0 +1,15 @@
+(community name with URL) http://www.esring.com/api/v1/properties?api_key=838&include_properties=1&per_page=500&property_group_ids=1428
+
+(property id with URL) http://www.esring.com/casa-granada-los-angeles-ca/check-availability
+
+(just for floor plan id) http://casagranada.prospectportal.com/?module=property_info&property[id]=62519&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&
+[FloorplanID; URL; Name; Bedrooms; Bathrooms; Floor Plan Rent(\d); Deposit; SqFt]
+
+(just for space id) http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_unit_spaces&property_floorplan[id]=206510(&move_in_date=08/29/2016)
+[SpaceID; Unit; Rent; SqFeet?; Deposit?; Available; Building]
+
+(Payment detail) http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_apartment_amenities&property_floorplan[id]=206510&unit_space[id]=3273657
+[price;month_length]
+
+
+http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&property_floorplan[id]=292751&move_in_date=08/30/2016

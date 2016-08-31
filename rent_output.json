@@ -1,0 +1,3244 @@
+[
+    {
+        "name": "Casa Granada", 
+        "address": "550 S. Barrington Ave.", 
+        "city": "Los Angeles", 
+        "state": "CA", 
+        "zip": "90049", 
+        "marketing_phone": "877-272-5295", 
+        "vanity_url": "http://www.esring.com/casa-granada-los-angeles-ca/check-availability", 
+        "property_url": "http://casagranada.prospectportal.com/?module=property_info&property[id]=62519&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_unit_spaces&property_floorplan[id]=206510&move_in_date=08/31/2016", 
+                "Name": "Studio", 
+                "BED / BATH": "Studio", 
+                "Rent": "$2,103 - $2,245", 
+                "Deposit": "$450", 
+                "sqft": "470+", 
+                "unit lease": [
+                    {
+                        "unit_id": "3273657", 
+                        "Unit lease matrix url": "http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_unit_spaces&property_floorplan[id]=206510&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3273657", 
+                        "Lease Rent": [
+                            "$2,103", 
+                            "$2,109", 
+                            "$2,117", 
+                            "$2,142", 
+                            "$2,156", 
+                            "$2,210", 
+                            "$2,245"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "6 mo", 
+                            "7 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_unit_spaces&property_floorplan[id]=206500&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$3,044 - $3,149", 
+                "Deposit": "$700", 
+                "sqft": "950+", 
+                "unit lease": [
+                    {
+                        "unit_id": "3273783", 
+                        "Unit lease matrix url": "http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_unit_spaces&property_floorplan[id]=206500&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3273783", 
+                        "Lease Rent": [
+                            "$3,044", 
+                            "$3,050", 
+                            "$3,058", 
+                            "$3,068", 
+                            "$3,080", 
+                            "$3,096", 
+                            "$3,149"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_unit_spaces&property_floorplan[id]=206502&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom (2)", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$3,525 - $3,954", 
+                "Deposit": "$800", 
+                "sqft": "1,250+", 
+                "unit lease": [
+                    {
+                        "unit_id": "3273672", 
+                        "Unit lease matrix url": "http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_unit_spaces&property_floorplan[id]=206502&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3273672", 
+                        "Lease Rent": [
+                            "$3,525", 
+                            "$3,531", 
+                            "$3,562", 
+                            "$3,614", 
+                            "$3,655", 
+                            "$3,678", 
+                            "$3,744"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "6 mo", 
+                            "8 mo", 
+                            "7 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3273686", 
+                        "Unit lease matrix url": "http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_unit_spaces&property_floorplan[id]=206502&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3273686", 
+                        "Lease Rent": [
+                            "$3,600", 
+                            "$3,606", 
+                            "$3,638", 
+                            "$3,690", 
+                            "$3,732", 
+                            "$3,756", 
+                            "$3,823"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "6 mo", 
+                            "8 mo", 
+                            "7 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3273803", 
+                        "Unit lease matrix url": "http://casagranada.prospectportal.com/?module=check_availability&property[id]=62519&action=view_unit_spaces&property_floorplan[id]=206502&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3273803", 
+                        "Lease Rent": [
+                            "$3,675", 
+                            "$3,703", 
+                            "$3,750", 
+                            "$3,807", 
+                            "$3,869", 
+                            "$3,879", 
+                            "$3,954"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "6 mo", 
+                            "8 mo", 
+                            "7 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Cielo Apartments", 
+        "address": "9733 Topanga Canyon Blvd.", 
+        "city": "Chatsworth", 
+        "state": "CA", 
+        "zip": "91311", 
+        "marketing_phone": "855-856-8720 ", 
+        "vanity_url": "http://www.esring.com/cielo-chatsworth-ca/check-availability", 
+        "property_url": "http://cieloapartments.prospectportal.com/?module=property_info&property[id]=163599&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&action=view_unit_spaces&property_floorplan[id]=292751&move_in_date=08/31/2016", 
+                "Name": "Divine", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,236 - $2,275", 
+                "Deposit": "$600", 
+                "sqft": "1,067+", 
+                "unit lease": [
+                    {
+                        "unit_id": "3798542", 
+                        "Unit lease matrix url": "http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&action=view_unit_spaces&property_floorplan[id]=292751&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3798542", 
+                        "Lease Rent": [
+                            "$2,275"
+                        ], 
+                        "Lease Term": [
+                            "12 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3798593", 
+                        "Unit lease matrix url": "http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&action=view_unit_spaces&property_floorplan[id]=292751&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3798593", 
+                        "Lease Rent": [
+                            "$2,236"
+                        ], 
+                        "Lease Term": [
+                            "12 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&action=view_unit_spaces&property_floorplan[id]=292763&move_in_date=08/31/2016", 
+                "Name": "Heavenly", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,116 - $2,240", 
+                "Deposit": "$600", 
+                "sqft": "1,080+", 
+                "unit lease": [
+                    {
+                        "unit_id": "3798573", 
+                        "Unit lease matrix url": "http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&action=view_unit_spaces&property_floorplan[id]=292763&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3798573", 
+                        "Lease Rent": [
+                            "$2,216"
+                        ], 
+                        "Lease Term": [
+                            "12 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3798532", 
+                        "Unit lease matrix url": "http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&action=view_unit_spaces&property_floorplan[id]=292763&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3798532", 
+                        "Lease Rent": [
+                            "$2,116"
+                        ], 
+                        "Lease Term": [
+                            "12 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3798518", 
+                        "Unit lease matrix url": "http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&action=view_unit_spaces&property_floorplan[id]=292763&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3798518", 
+                        "Lease Rent": [
+                            "$2,236"
+                        ], 
+                        "Lease Term": [
+                            "12 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&action=view_unit_spaces&property_floorplan[id]=292755&move_in_date=08/31/2016", 
+                "Name": "Tranquil", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,220", 
+                "Deposit": "$600", 
+                "sqft": "1,105+", 
+                "unit lease": [
+                    {
+                        "unit_id": "3798487", 
+                        "Unit lease matrix url": "http://cieloapartments.prospectportal.com/?module=check_availability&property[id]=163599&action=view_unit_spaces&property_floorplan[id]=292755&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3798487", 
+                        "Lease Rent": [
+                            "$2,220"
+                        ], 
+                        "Lease Term": [
+                            "12 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "L'Estancia", 
+        "address": "4045 Vineland Ave.", 
+        "city": "Studio City", 
+        "state": "CA", 
+        "zip": "91604", 
+        "marketing_phone": "877-272-5305", 
+        "vanity_url": "http://www.esring.com/lestancia-studio-city-ca/check-availability", 
+        "property_url": "http://lestanciaapts.prospectportal.com/?module=property_info&property[id]=62523&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=206768&move_in_date=08/31/2016", 
+                "Name": "B11", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$2,668 - $3,061", 
+                "Deposit": "$1,250", 
+                "sqft": "730", 
+                "unit lease": [
+                    {
+                        "unit_id": "3274466", 
+                        "Unit lease matrix url": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=206768&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274466", 
+                        "Lease Rent": [
+                            "$2,668", 
+                            "$2,670", 
+                            "$2,710", 
+                            "$2,716", 
+                            "$2,733", 
+                            "$2,758", 
+                            "$2,785", 
+                            "$2,823", 
+                            "$2,900", 
+                            "$3,061"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "12 mo", 
+                            "10 mo", 
+                            "8 mo", 
+                            "9 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=206766&move_in_date=08/31/2016", 
+                "Name": "B4", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$2,668 - $3,061", 
+                "Deposit": "$1,250", 
+                "sqft": "726", 
+                "unit lease": [
+                    {
+                        "unit_id": "3274340", 
+                        "Unit lease matrix url": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=206766&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274340", 
+                        "Lease Rent": [
+                            "$2,668", 
+                            "$2,670", 
+                            "$2,710", 
+                            "$2,716", 
+                            "$2,733", 
+                            "$2,758", 
+                            "$2,785", 
+                            "$2,823", 
+                            "$2,900", 
+                            "$3,061"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "12 mo", 
+                            "10 mo", 
+                            "8 mo", 
+                            "9 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=206798&move_in_date=08/31/2016", 
+                "Name": "D", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$3,540 - $3,785", 
+                "Deposit": "$1,750", 
+                "sqft": "1,135", 
+                "unit lease": [
+                    {
+                        "unit_id": "3274373", 
+                        "Unit lease matrix url": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=206798&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274373", 
+                        "Lease Rent": [
+                            "$3,540", 
+                            "$3,547", 
+                            "$3,556", 
+                            "$3,567", 
+                            "$3,580", 
+                            "$3,598", 
+                            "$3,621", 
+                            "$3,654", 
+                            "$3,703", 
+                            "$3,785"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=270088&move_in_date=08/31/2016", 
+                "Name": "E", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$3,522 - $4,033", 
+                "Deposit": "$1,750", 
+                "sqft": "1,199", 
+                "unit lease": [
+                    {
+                        "unit_id": "3274462", 
+                        "Unit lease matrix url": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=270088&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274462", 
+                        "Lease Rent": [
+                            "$3,522", 
+                            "$3,524", 
+                            "$3,577", 
+                            "$3,584", 
+                            "$3,607", 
+                            "$3,639", 
+                            "$3,674", 
+                            "$3,722", 
+                            "$3,824", 
+                            "$4,033"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "12 mo", 
+                            "10 mo", 
+                            "8 mo", 
+                            "9 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=206802&move_in_date=08/31/2016", 
+                "Name": "E1", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$3,515 - $3,760", 
+                "Deposit": "$1,750", 
+                "sqft": "1,231", 
+                "unit lease": [
+                    {
+                        "unit_id": "3274347", 
+                        "Unit lease matrix url": "http://lestanciaapts.prospectportal.com/?module=check_availability&property[id]=62523&action=view_unit_spaces&property_floorplan[id]=206802&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274347", 
+                        "Lease Rent": [
+                            "$3,515", 
+                            "$3,522", 
+                            "$3,531", 
+                            "$3,542", 
+                            "$3,555", 
+                            "$3,573", 
+                            "$3,596", 
+                            "$3,629", 
+                            "$3,678", 
+                            "$3,760"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "The Meadows Apartment Homes", 
+        "address": "6300 Green Valley Circle", 
+        "city": "Culver City", 
+        "state": "CA", 
+        "zip": "90230", 
+        "marketing_phone": "877-272-5317", 
+        "vanity_url": "http://www.esring.com/the-meadows-apartment-homes-culver-city-ca/check-availability", 
+        "property_url": "http://meadowapts.prospectportal.com/?module=property_info&property[id]=62516&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206314&move_in_date=08/31/2016", 
+                "Name": "Studio", 
+                "BED / BATH": "Studio", 
+                "Rent": "$1,732 - $2,520", 
+                "Deposit": "$500", 
+                "sqft": "445", 
+                "unit lease": [
+                    {
+                        "unit_id": "3282859", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206314&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282859", 
+                        "Lease Rent": [
+                            "$1,732", 
+                            "$1,736", 
+                            "$1,742", 
+                            "$1,759", 
+                            "$1,770", 
+                            "$1,817", 
+                            "$1,895", 
+                            "$1,896", 
+                            "$1,951", 
+                            "$2,212"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "9 mo", 
+                            "3 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282873", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206314&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282873", 
+                        "Lease Rent": [
+                            "$1,802", 
+                            "$1,806", 
+                            "$1,812", 
+                            "$1,829", 
+                            "$1,840", 
+                            "$1,890", 
+                            "$1,965", 
+                            "$1,971", 
+                            "$2,027", 
+                            "$2,255"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "9 mo", 
+                            "3 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282877", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206314&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282877", 
+                        "Lease Rent": [
+                            "$1,802", 
+                            "$1,806", 
+                            "$1,812", 
+                            "$1,840", 
+                            "$1,856", 
+                            "$1,890", 
+                            "$1,908", 
+                            "$1,965", 
+                            "$2,016", 
+                            "$2,096"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "3 mo", 
+                            "5 mo", 
+                            "4 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282874", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206314&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282874", 
+                        "Lease Rent": [
+                            "$1,812", 
+                            "$1,816", 
+                            "$1,825", 
+                            "$1,848", 
+                            "$1,865", 
+                            "$1,908", 
+                            "$1,941", 
+                            "$2,016", 
+                            "$2,125", 
+                            "$2,520"
+                        ], 
+                        "Lease Term": [
+                            "10 mo", 
+                            "11 mo", 
+                            "12 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "8 mo", 
+                            "9 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282875", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206314&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282875", 
+                        "Lease Rent": [
+                            "$1,827", 
+                            "$1,831", 
+                            "$1,837", 
+                            "$1,865", 
+                            "$1,881", 
+                            "$1,934", 
+                            "$1,942", 
+                            "$1,990", 
+                            "$2,043", 
+                            "$2,124"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "8 mo", 
+                            "9 mo", 
+                            "3 mo", 
+                            "5 mo", 
+                            "4 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016", 
+                "Name": "Plan C", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$1,867 - $4,340", 
+                "Deposit": "$500", 
+                "sqft": "710", 
+                "unit lease": [
+                    {
+                        "unit_id": "3282806", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282806", 
+                        "Lease Rent": [
+                            "$1,923", 
+                            "$1,930", 
+                            "$1,939", 
+                            "$1,951", 
+                            "$1,966", 
+                            "$1,968", 
+                            "$1,985", 
+                            "$2,062", 
+                            "$2,161", 
+                            "$2,204"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "12 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282780", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282780", 
+                        "Lease Rent": [
+                            "$1,953", 
+                            "$1,955", 
+                            "$1,977", 
+                            "$1,991", 
+                            "$1,993", 
+                            "$1,999", 
+                            "$2,030", 
+                            "$2,112", 
+                            "$2,218", 
+                            "$2,272"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "12 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282515", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282515", 
+                        "Lease Rent": [
+                            "$1,867", 
+                            "$1,880", 
+                            "$1,889", 
+                            "$1,901", 
+                            "$1,927", 
+                            "$1,935", 
+                            "$2,010", 
+                            "$2,052", 
+                            "$2,108", 
+                            "$2,152"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "11 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "7 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3286119", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3286119", 
+                        "Lease Rent": [
+                            "$1,890", 
+                            "$1,896", 
+                            "$1,905", 
+                            "$1,915", 
+                            "$1,934", 
+                            "$2,015", 
+                            "$2,019", 
+                            "$2,040", 
+                            "$2,573", 
+                            "$4,129"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "7 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282772", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282772", 
+                        "Lease Rent": [
+                            "$1,917", 
+                            "$1,930", 
+                            "$1,939", 
+                            "$1,951", 
+                            "$1,966", 
+                            "$1,978", 
+                            "$2,013", 
+                            "$2,115", 
+                            "$2,148", 
+                            "$2,266"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "6 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282342", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282342", 
+                        "Lease Rent": [
+                            "$1,942", 
+                            "$1,955", 
+                            "$1,964", 
+                            "$1,976", 
+                            "$1,991", 
+                            "$2,004", 
+                            "$2,038", 
+                            "$2,141", 
+                            "$2,175", 
+                            "$2,293"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "6 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282589", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282589", 
+                        "Lease Rent": [
+                            "$1,942", 
+                            "$1,948", 
+                            "$1,964", 
+                            "$1,976", 
+                            "$1,991", 
+                            "$2,017", 
+                            "$2,038", 
+                            "$2,141", 
+                            "$2,175", 
+                            "$2,293"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "10 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "6 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3286191", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3286191", 
+                        "Lease Rent": [
+                            "$1,990", 
+                            "$1,996", 
+                            "$2,005", 
+                            "$2,015", 
+                            "$2,034", 
+                            "$2,118", 
+                            "$2,120", 
+                            "$2,140", 
+                            "$2,707", 
+                            "$4,340"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "7 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282352", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282352", 
+                        "Lease Rent": [
+                            "$1,992", 
+                            "$2,005", 
+                            "$2,014", 
+                            "$2,026", 
+                            "$2,041", 
+                            "$2,056", 
+                            "$2,088", 
+                            "$2,192", 
+                            "$2,230", 
+                            "$2,346"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "6 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206306&move_in_date=08/31/2016", 
+                "Name": "Plan C1", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$1,947 - $2,331", 
+                "Deposit": "$500", 
+                "sqft": "740", 
+                "unit lease": [
+                    {
+                        "unit_id": "3282803", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206306&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282803", 
+                        "Lease Rent": [
+                            "$1,988", 
+                            "$1,995", 
+                            "$2,004", 
+                            "$2,016", 
+                            "$2,031", 
+                            "$2,034", 
+                            "$2,050", 
+                            "$2,128", 
+                            "$2,230", 
+                            "$2,272"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "12 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282394", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206306&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282394", 
+                        "Lease Rent": [
+                            "$2,003", 
+                            "$2,010", 
+                            "$2,019", 
+                            "$2,031", 
+                            "$2,046", 
+                            "$2,050", 
+                            "$2,065", 
+                            "$2,144", 
+                            "$2,246", 
+                            "$2,288"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "12 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282585", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206306&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282585", 
+                        "Lease Rent": [
+                            "$2,003", 
+                            "$2,010", 
+                            "$2,019", 
+                            "$2,031", 
+                            "$2,046", 
+                            "$2,050", 
+                            "$2,065", 
+                            "$2,144", 
+                            "$2,246", 
+                            "$2,288"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "12 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282844", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206306&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282844", 
+                        "Lease Rent": [
+                            "$2,008", 
+                            "$2,010", 
+                            "$2,033", 
+                            "$2,047", 
+                            "$2,050", 
+                            "$2,055", 
+                            "$2,086", 
+                            "$2,169", 
+                            "$2,278", 
+                            "$2,331"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "12 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282623", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206306&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282623", 
+                        "Lease Rent": [
+                            "$2,028", 
+                            "$2,035", 
+                            "$2,044", 
+                            "$2,056", 
+                            "$2,071", 
+                            "$2,076", 
+                            "$2,090", 
+                            "$2,169", 
+                            "$2,272", 
+                            "$2,314"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "12 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282815", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206306&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282815", 
+                        "Lease Rent": [
+                            "$1,947", 
+                            "$1,960", 
+                            "$1,969", 
+                            "$1,981", 
+                            "$2,009", 
+                            "$2,043", 
+                            "$2,138", 
+                            "$2,181", 
+                            "$2,193", 
+                            "$2,298"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "11 mo", 
+                            "5 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282407", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206306&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282407", 
+                        "Lease Rent": [
+                            "$1,972", 
+                            "$1,985", 
+                            "$1,994", 
+                            "$2,006", 
+                            "$2,021", 
+                            "$2,035", 
+                            "$2,068", 
+                            "$2,172", 
+                            "$2,208", 
+                            "$2,325"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "6 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282542", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206306&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282542", 
+                        "Lease Rent": [
+                            "$1,972", 
+                            "$1,985", 
+                            "$1,994", 
+                            "$2,006", 
+                            "$2,035", 
+                            "$2,068", 
+                            "$2,165", 
+                            "$2,208", 
+                            "$2,219", 
+                            "$2,325"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "11 mo", 
+                            "5 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206308&move_in_date=08/31/2016", 
+                "Name": "Plan A", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,653 - $3,825", 
+                "Deposit": "$500", 
+                "sqft": "1,087", 
+                "unit lease": [
+                    {
+                        "unit_id": "3282697", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206308&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282697", 
+                        "Lease Rent": [
+                            "$2,653", 
+                            "$2,669", 
+                            "$2,689", 
+                            "$2,699", 
+                            "$2,732", 
+                            "$2,800", 
+                            "$2,849", 
+                            "$3,138", 
+                            "$3,162", 
+                            "$3,423"
+                        ], 
+                        "Lease Term": [
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "3 mo", 
+                            "4 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282709", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206308&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282709", 
+                        "Lease Rent": [
+                            "$2,654", 
+                            "$2,694", 
+                            "$2,714", 
+                            "$2,740", 
+                            "$2,743", 
+                            "$2,781", 
+                            "$2,875", 
+                            "$2,943", 
+                            "$3,325", 
+                            "$3,761"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282691", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206308&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282691", 
+                        "Lease Rent": [
+                            "$2,664", 
+                            "$2,704", 
+                            "$2,724", 
+                            "$2,750", 
+                            "$2,753", 
+                            "$2,791", 
+                            "$2,885", 
+                            "$3,126", 
+                            "$3,337", 
+                            "$3,774"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282649", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206308&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282649", 
+                        "Lease Rent": [
+                            "$2,704", 
+                            "$2,744", 
+                            "$2,764", 
+                            "$2,790", 
+                            "$2,794", 
+                            "$2,833", 
+                            "$2,927", 
+                            "$3,170", 
+                            "$3,383", 
+                            "$3,825"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206310&move_in_date=08/31/2016", 
+                "Name": "Plan B", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,647 - $3,810", 
+                "Deposit": "$500", 
+                "sqft": "1,170", 
+                "unit lease": [
+                    {
+                        "unit_id": "3282454", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206310&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282454", 
+                        "Lease Rent": [
+                            "$2,647", 
+                            "$2,687", 
+                            "$2,707", 
+                            "$2,733", 
+                            "$2,735", 
+                            "$2,773", 
+                            "$2,867", 
+                            "$3,107", 
+                            "$3,317", 
+                            "$3,752"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282471", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206310&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282471", 
+                        "Lease Rent": [
+                            "$2,667", 
+                            "$2,707", 
+                            "$2,727", 
+                            "$2,753", 
+                            "$2,756", 
+                            "$2,794", 
+                            "$2,888", 
+                            "$3,129", 
+                            "$3,340", 
+                            "$3,778"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282507", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206310&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282507", 
+                        "Lease Rent": [
+                            "$2,687", 
+                            "$2,727", 
+                            "$2,747", 
+                            "$2,773", 
+                            "$2,777", 
+                            "$2,815", 
+                            "$2,909", 
+                            "$3,151", 
+                            "$3,364", 
+                            "$3,804"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282604", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206310&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282604", 
+                        "Lease Rent": [
+                            "$2,692", 
+                            "$2,732", 
+                            "$2,752", 
+                            "$2,778", 
+                            "$2,782", 
+                            "$2,820", 
+                            "$2,914", 
+                            "$3,157", 
+                            "$3,369", 
+                            "$3,810"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3282509", 
+                        "Unit lease matrix url": "http://meadowapts.prospectportal.com/?module=check_availability&property[id]=62516&action=view_unit_spaces&property_floorplan[id]=206310&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3282509", 
+                        "Lease Rent": [
+                            "$2,737", 
+                            "$2,748", 
+                            "$2,797", 
+                            "$2,823", 
+                            "$2,849", 
+                            "$2,858", 
+                            "$2,895", 
+                            "$3,030", 
+                            "$3,355", 
+                            "$3,691"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "10 mo", 
+                            "6 mo", 
+                            "9 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Mediterranean Village Costa Mesa", 
+        "address": "2400 Harbor Blvd.", 
+        "city": "Costa Mesa", 
+        "state": "CA", 
+        "zip": "92626", 
+        "marketing_phone": "877-272-5321", 
+        "vanity_url": "http://www.esring.com/mediterranean-village-costa-mesa-ca/check-availability", 
+        "property_url": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=property_info&property[id]=53374&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195203&move_in_date=08/31/2016", 
+                "Name": "Plan A", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$1,755 - $2,212", 
+                "Deposit": "$600", 
+                "sqft": "673", 
+                "unit lease": [
+                    {
+                        "unit_id": "3262512", 
+                        "Unit lease matrix url": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195203&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3262512", 
+                        "Lease Rent": [
+                            "$1,853", 
+                            "$1,863", 
+                            "$1,868", 
+                            "$1,871", 
+                            "$1,881", 
+                            "$1,884", 
+                            "$1,889", 
+                            "$2,009", 
+                            "$2,128", 
+                            "$2,212"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "9 mo", 
+                            "11 mo", 
+                            "8 mo", 
+                            "10 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "5 mo", 
+                            "3 mo", 
+                            "4 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3262277", 
+                        "Unit lease matrix url": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195203&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3262277", 
+                        "Lease Rent": [
+                            "$1,755", 
+                            "$1,760", 
+                            "$1,767", 
+                            "$1,770", 
+                            "$1,779", 
+                            "$1,783", 
+                            "$1,784", 
+                            "$1,908", 
+                            "$2,008", 
+                            "$2,088"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "11 mo", 
+                            "6 mo", 
+                            "10 mo", 
+                            "7 mo", 
+                            "5 mo", 
+                            "3 mo", 
+                            "4 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195205&move_in_date=08/31/2016", 
+                "Name": "Plan B", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$1,883 - $2,284", 
+                "Deposit": "$600", 
+                "sqft": "840", 
+                "unit lease": [
+                    {
+                        "unit_id": "3262225", 
+                        "Unit lease matrix url": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195205&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3262225", 
+                        "Lease Rent": [
+                            "$1,883", 
+                            "$1,902", 
+                            "$1,932", 
+                            "$1,939", 
+                            "$1,940", 
+                            "$1,950", 
+                            "$1,957", 
+                            "$2,077", 
+                            "$2,190", 
+                            "$2,284"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "11 mo", 
+                            "8 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "5 mo", 
+                            "3 mo", 
+                            "4 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195207&move_in_date=08/31/2016", 
+                "Name": "Plan C", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$1,838 - $2,492", 
+                "Deposit": "$600", 
+                "sqft": "750", 
+                "unit lease": [
+                    {
+                        "unit_id": "3262358", 
+                        "Unit lease matrix url": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195207&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3262358", 
+                        "Lease Rent": [
+                            "$1,838", 
+                            "$1,853", 
+                            "$1,870", 
+                            "$1,871", 
+                            "$1,883", 
+                            "$1,906", 
+                            "$1,937", 
+                            "$2,041", 
+                            "$2,258", 
+                            "$2,438"
+                        ], 
+                        "Lease Term": [
+                            "10 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3262570", 
+                        "Unit lease matrix url": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195207&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3262570", 
+                        "Lease Rent": [
+                            "$1,883", 
+                            "$1,899", 
+                            "$1,917", 
+                            "$1,917", 
+                            "$1,928", 
+                            "$1,952", 
+                            "$1,983", 
+                            "$2,089", 
+                            "$2,309", 
+                            "$2,492"
+                        ], 
+                        "Lease Term": [
+                            "10 mo", 
+                            "12 mo", 
+                            "9 mo", 
+                            "11 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195209&move_in_date=08/31/2016", 
+                "Name": "Plan D", 
+                "BED / BATH": "1bd\u00a0/ 2ba", 
+                "Rent": "$1,631 - $2,419", 
+                "Deposit": "$800", 
+                "sqft": "940", 
+                "unit lease": [
+                    {
+                        "unit_id": "3262319", 
+                        "Unit lease matrix url": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195209&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3262319", 
+                        "Lease Rent": [
+                            "$1,756", 
+                            "$1,790", 
+                            "$1,798", 
+                            "$1,812", 
+                            "$1,831", 
+                            "$1,846", 
+                            "$1,915", 
+                            "$1,989", 
+                            "$2,041", 
+                            "$2,419"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3262431", 
+                        "Unit lease matrix url": "http://mediterraneanvillagecostamesa.prospectportal.com/?module=check_availability&property[id]=53374&action=view_unit_spaces&property_floorplan[id]=195209&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3262431", 
+                        "Lease Rent": [
+                            "$1,631", 
+                            "$1,663", 
+                            "$1,671", 
+                            "$1,685", 
+                            "$1,703", 
+                            "$1,718", 
+                            "$1,785", 
+                            "$1,856", 
+                            "$1,908", 
+                            "$2,265"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Mediterranean Village West Hollywood", 
+        "address": "840 N. Larrabee St.", 
+        "city": "West Hollywood", 
+        "state": "CA", 
+        "zip": "90069", 
+        "marketing_phone": "(877) 272-5426", 
+        "vanity_url": "http://www.esring.com/mediterranean-village-west-hollywood-ca/check-availability", 
+        "property_url": "http://mvwhapts.prospectportal.com/?module=property_info&property[id]=62525&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=206982&move_in_date=08/31/2016", 
+                "Name": "Efficiency", 
+                "BED / BATH": "Studio", 
+                "Rent": "$1,708 - $1,995", 
+                "Deposit": "$400", 
+                "sqft": "362", 
+                "unit lease": [
+                    {
+                        "unit_id": "3274517", 
+                        "Unit lease matrix url": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=206982&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274517", 
+                        "Lease Rent": [
+                            "$1,708", 
+                            "$1,712", 
+                            "$1,723", 
+                            "$1,728", 
+                            "$1,744", 
+                            "$1,771", 
+                            "$1,813", 
+                            "$1,816", 
+                            "$1,841", 
+                            "$1,995"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "9 mo", 
+                            "10 mo", 
+                            "8 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=206992&move_in_date=08/31/2016", 
+                "Name": "Studio", 
+                "BED / BATH": "Studio", 
+                "Rent": "$2,041 - $2,416", 
+                "Deposit": "$400", 
+                "sqft": "414", 
+                "unit lease": [
+                    {
+                        "unit_id": "3274577", 
+                        "Unit lease matrix url": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=206992&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274577", 
+                        "Lease Rent": [
+                            "$2,041", 
+                            "$2,050", 
+                            "$2,057", 
+                            "$2,071", 
+                            "$2,092", 
+                            "$2,131", 
+                            "$2,139", 
+                            "$2,144", 
+                            "$2,268", 
+                            "$2,335"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "11 mo", 
+                            "9 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "8 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3274604", 
+                        "Unit lease matrix url": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=206992&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274604", 
+                        "Lease Rent": [
+                            "$2,116", 
+                            "$2,125", 
+                            "$2,132", 
+                            "$2,146", 
+                            "$2,168", 
+                            "$2,208", 
+                            "$2,217", 
+                            "$2,221", 
+                            "$2,348", 
+                            "$2,416"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "11 mo", 
+                            "9 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "8 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=206988&move_in_date=08/31/2016", 
+                "Name": "One Bedroom", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$2,560 - $3,645", 
+                "Deposit": "$600", 
+                "sqft": "720", 
+                "unit lease": [
+                    {
+                        "unit_id": "3274554", 
+                        "Unit lease matrix url": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=206988&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274554", 
+                        "Lease Rent": [
+                            "$2,610", 
+                            "$2,645", 
+                            "$2,662", 
+                            "$2,702", 
+                            "$2,716", 
+                            "$2,795", 
+                            "$2,829", 
+                            "$2,896", 
+                            "$2,974", 
+                            "$3,645"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "7 mo", 
+                            "8 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "6 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3274631", 
+                        "Unit lease matrix url": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=206988&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274631", 
+                        "Lease Rent": [
+                            "$2,560", 
+                            "$2,564", 
+                            "$2,569", 
+                            "$2,612", 
+                            "$2,635", 
+                            "$2,689", 
+                            "$2,690", 
+                            "$2,725", 
+                            "$2,952", 
+                            "$3,120"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "3 mo", 
+                            "4 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3274587", 
+                        "Unit lease matrix url": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=206988&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274587", 
+                        "Lease Rent": [
+                            "$2,614", 
+                            "$2,631", 
+                            "$2,653", 
+                            "$2,673", 
+                            "$2,719", 
+                            "$2,742", 
+                            "$2,828", 
+                            "$2,896", 
+                            "$3,007", 
+                            "$3,055"
+                        ], 
+                        "Lease Term": [
+                            "11 mo", 
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "4 mo", 
+                            "3 mo", 
+                            "5 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=207000&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$3,598 - $4,092", 
+                "Deposit": "$800", 
+                "sqft": "1,100", 
+                "unit lease": [
+                    {
+                        "unit_id": "3274560", 
+                        "Unit lease matrix url": "http://mvwhapts.prospectportal.com/?module=check_availability&property[id]=62525&action=view_unit_spaces&property_floorplan[id]=207000&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3274560", 
+                        "Lease Rent": [
+                            "$3,598", 
+                            "$3,602", 
+                            "$3,607", 
+                            "$3,613", 
+                            "$3,620", 
+                            "$3,630", 
+                            "$3,643", 
+                            "$3,689", 
+                            "$3,734", 
+                            "$4,092"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "4 mo", 
+                            "3 mo", 
+                            "5 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Parkwood", 
+        "address": "700 West Ave. I", 
+        "city": "Lancaster", 
+        "state": "CA", 
+        "zip": "93534", 
+        "marketing_phone": "866-677-8253", 
+        "vanity_url": "http://www.esring.com/parkwood-apartments-lancaster-ca/check-availability", 
+        "property_url": "http://parkwoodapartmentsca.prospectportal.com/?module=property_info&property[id]=168557&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://parkwoodapartmentsca.prospectportal.com/?module=check_availability&property[id]=168557&action=view_unit_spaces&property_floorplan[id]=294146&move_in_date=08/31/2016", 
+                "Name": "One Bedroom", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$830 - $880", 
+                "Deposit": "$400", 
+                "sqft": "725", 
+                "unit lease": [
+                    {
+                        "unit_id": "3800063", 
+                        "Unit lease matrix url": "http://parkwoodapartmentsca.prospectportal.com/?module=check_availability&property[id]=168557&action=view_unit_spaces&property_floorplan[id]=294146&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3800063", 
+                        "Lease Rent": [
+                            "$830", 
+                            "$880"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://parkwoodapartmentsca.prospectportal.com/?module=check_availability&property[id]=168557&action=view_unit_spaces&property_floorplan[id]=294148&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$1,150 - $1,200", 
+                "Deposit": "$500", 
+                "sqft": "895", 
+                "unit lease": [
+                    {
+                        "unit_id": "3800012", 
+                        "Unit lease matrix url": "http://parkwoodapartmentsca.prospectportal.com/?module=check_availability&property[id]=168557&action=view_unit_spaces&property_floorplan[id]=294148&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3800012", 
+                        "Lease Rent": [
+                            "$1,150", 
+                            "$1,200"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3800022", 
+                        "Unit lease matrix url": "http://parkwoodapartmentsca.prospectportal.com/?module=check_availability&property[id]=168557&action=view_unit_spaces&property_floorplan[id]=294148&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3800022", 
+                        "Lease Rent": [
+                            "$1,150", 
+                            "$1,200"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Rancho Los Feliz", 
+        "address": "3205 Los Feliz Blvd.", 
+        "city": "Los Angeles", 
+        "state": "CA", 
+        "zip": "90039", 
+        "marketing_phone": "877-280-7624", 
+        "vanity_url": "http://www.esring.com/rancho-los-feliz-apartments-los-angeles-ca/check-availability", 
+        "property_url": "http://rancholosfeliz.prospectportal.com/?module=property_info&property[id]=62528&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://rancholosfeliz.prospectportal.com/?module=check_availability&property[id]=62528&action=view_unit_spaces&property_floorplan[id]=207532&move_in_date=08/31/2016", 
+                "Name": "Efficiency", 
+                "BED / BATH": "Studio", 
+                "Rent": "$1,396 - $1,781", 
+                "Deposit": "$400", 
+                "sqft": "352", 
+                "unit lease": [
+                    {
+                        "unit_id": "3275337", 
+                        "Unit lease matrix url": "http://rancholosfeliz.prospectportal.com/?module=check_availability&property[id]=62528&action=view_unit_spaces&property_floorplan[id]=207532&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275337", 
+                        "Lease Rent": [
+                            "$1,426", 
+                            "$1,430", 
+                            "$1,454", 
+                            "$1,467", 
+                            "$1,477", 
+                            "$1,485", 
+                            "$1,518", 
+                            "$1,565", 
+                            "$1,600", 
+                            "$1,704"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3275263", 
+                        "Unit lease matrix url": "http://rancholosfeliz.prospectportal.com/?module=check_availability&property[id]=62528&action=view_unit_spaces&property_floorplan[id]=207532&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275263", 
+                        "Lease Rent": [
+                            "$1,396", 
+                            "$1,400", 
+                            "$1,423", 
+                            "$1,431", 
+                            "$1,447", 
+                            "$1,461", 
+                            "$1,472", 
+                            "$1,514", 
+                            "$1,580", 
+                            "$1,640"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://rancholosfeliz.prospectportal.com/?module=check_availability&property[id]=62528&action=view_unit_spaces&property_floorplan[id]=207534&move_in_date=08/31/2016", 
+                "Name": "Studio", 
+                "BED / BATH": "Studio", 
+                "Rent": "$1,468 - $2,096", 
+                "Deposit": "$500", 
+                "sqft": "426+", 
+                "unit lease": [
+                    {
+                        "unit_id": "3275196", 
+                        "Unit lease matrix url": "http://rancholosfeliz.prospectportal.com/?module=check_availability&property[id]=62528&action=view_unit_spaces&property_floorplan[id]=207534&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275196", 
+                        "Lease Rent": [
+                            "$1,468", 
+                            "$1,474", 
+                            "$1,482", 
+                            "$1,508", 
+                            "$1,528", 
+                            "$1,547", 
+                            "$1,564", 
+                            "$1,617", 
+                            "$1,698", 
+                            "$1,783"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3275050", 
+                        "Unit lease matrix url": "http://rancholosfeliz.prospectportal.com/?module=check_availability&property[id]=62528&action=view_unit_spaces&property_floorplan[id]=207534&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275050", 
+                        "Lease Rent": [
+                            "$1,473", 
+                            "$1,479", 
+                            "$1,487", 
+                            "$1,497", 
+                            "$1,527", 
+                            "$1,553", 
+                            "$1,569", 
+                            "$1,623", 
+                            "$1,703", 
+                            "$1,789"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://rancholosfeliz.prospectportal.com/?module=check_availability&property[id]=62528&action=view_unit_spaces&property_floorplan[id]=207526&move_in_date=08/31/2016", 
+                "Name": "One Bedroom", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$2,030 - $2,502", 
+                "Deposit": "$700", 
+                "sqft": "700", 
+                "unit lease": [
+                    {
+                        "unit_id": "3275271", 
+                        "Unit lease matrix url": "http://rancholosfeliz.prospectportal.com/?module=check_availability&property[id]=62528&action=view_unit_spaces&property_floorplan[id]=207526&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275271", 
+                        "Lease Rent": [
+                            "$2,030", 
+                            "$2,039", 
+                            "$2,045", 
+                            "$2,046", 
+                            "$2,062", 
+                            "$2,094", 
+                            "$2,121", 
+                            "$2,165", 
+                            "$2,214", 
+                            "$2,301"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "11 mo", 
+                            "7 mo", 
+                            "8 mo", 
+                            "4 mo", 
+                            "6 mo", 
+                            "5 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3275060", 
+                        "Unit lease matrix url": "http://rancholosfeliz.prospectportal.com/?module=check_availability&property[id]=62528&action=view_unit_spaces&property_floorplan[id]=207526&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275060", 
+                        "Lease Rent": [
+                            "$2,090", 
+                            "$2,094", 
+                            "$2,099", 
+                            "$2,112", 
+                            "$2,128", 
+                            "$2,153", 
+                            "$2,181", 
+                            "$2,216", 
+                            "$2,250", 
+                            "$2,342"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "8 mo", 
+                            "9 mo", 
+                            "5 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Sunset Barrington Gardens", 
+        "address": "233 S. Barrington Ave.", 
+        "city": "Los Angeles", 
+        "state": "CA", 
+        "zip": "90049", 
+        "marketing_phone": "877-280-7641", 
+        "vanity_url": "http://www.esring.com/sunset-barrington-gardens-los-angeles-ca/check-availability", 
+        "property_url": "http://sunsetbarringtongardens.prospectportal.com/?module=property_info&property[id]=62529&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://sunsetbarringtongardens.prospectportal.com/?module=check_availability&property[id]=62529&action=view_unit_spaces&property_floorplan[id]=209316&move_in_date=08/31/2016", 
+                "Name": "1 Bd | 1 Bath - Plan A", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$2,612 - $3,132", 
+                "Deposit": "$600", 
+                "sqft": "800", 
+                "unit lease": [
+                    {
+                        "unit_id": "3275442", 
+                        "Unit lease matrix url": "http://sunsetbarringtongardens.prospectportal.com/?module=check_availability&property[id]=62529&action=view_unit_spaces&property_floorplan[id]=209316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275442", 
+                        "Lease Rent": [
+                            "$2,632", 
+                            "$2,645", 
+                            "$2,698", 
+                            "$2,721", 
+                            "$2,733", 
+                            "$2,743", 
+                            "$2,766", 
+                            "$2,855", 
+                            "$2,930", 
+                            "$3,025"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3275399", 
+                        "Unit lease matrix url": "http://sunsetbarringtongardens.prospectportal.com/?module=check_availability&property[id]=62529&action=view_unit_spaces&property_floorplan[id]=209316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275399", 
+                        "Lease Rent": [
+                            "$2,612", 
+                            "$2,625", 
+                            "$2,678", 
+                            "$2,701", 
+                            "$2,713", 
+                            "$2,723", 
+                            "$2,745", 
+                            "$2,834", 
+                            "$2,909", 
+                            "$3,004"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3275513", 
+                        "Unit lease matrix url": "http://sunsetbarringtongardens.prospectportal.com/?module=check_availability&property[id]=62529&action=view_unit_spaces&property_floorplan[id]=209316&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275513", 
+                        "Lease Rent": [
+                            "$2,732", 
+                            "$2,746", 
+                            "$2,800", 
+                            "$2,823", 
+                            "$2,834", 
+                            "$2,847", 
+                            "$2,870", 
+                            "$2,960", 
+                            "$3,036", 
+                            "$3,132"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "7 mo", 
+                            "6 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "5 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://sunsetbarringtongardens.prospectportal.com/?module=check_availability&property[id]=62529&action=view_unit_spaces&property_floorplan[id]=209328&move_in_date=08/31/2016", 
+                "Name": "2 Bd | 2 Bath", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$3,071 - $3,732", 
+                "Deposit": "$800", 
+                "sqft": "952", 
+                "unit lease": [
+                    {
+                        "unit_id": "3275394", 
+                        "Unit lease matrix url": "http://sunsetbarringtongardens.prospectportal.com/?module=check_availability&property[id]=62529&action=view_unit_spaces&property_floorplan[id]=209328&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3275394", 
+                        "Lease Rent": [
+                            "$3,071", 
+                            "$3,077", 
+                            "$3,085", 
+                            "$3,107", 
+                            "$3,163", 
+                            "$3,172", 
+                            "$3,177", 
+                            "$3,181", 
+                            "$3,241", 
+                            "$3,732"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "8 mo", 
+                            "9 mo", 
+                            "5 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "4 mo", 
+                            "3 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Tustin Cottages", 
+        "address": "1361 El Camino Real, #215", 
+        "city": "Tustin", 
+        "state": "CA", 
+        "zip": "92780", 
+        "marketing_phone": "877-328-9558", 
+        "vanity_url": "http://www.esring.com/tustin-cottages-tustin-ca/check-availability", 
+        "property_url": "http://tustincottagesapts.prospectportal.com/?module=property_info&property[id]=163600&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://tustincottagesapts.prospectportal.com/?module=check_availability&property[id]=163600&action=view_unit_spaces&property_floorplan[id]=292773&move_in_date=08/31/2016", 
+                "Name": "Plan A", 
+                "BED / BATH": "3bd\u00a0/ 2.5ba", 
+                "Rent": "$2,900", 
+                "Deposit": "$1,000", 
+                "sqft": "1,582", 
+                "unit lease": [
+                    {
+                        "unit_id": "3798667", 
+                        "Unit lease matrix url": "http://tustincottagesapts.prospectportal.com/?module=check_availability&property[id]=163600&action=view_unit_spaces&property_floorplan[id]=292773&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3798667", 
+                        "Lease Rent": [
+                            "$2,900", 
+                            "$2,900", 
+                            "$2,900"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "13 mo", 
+                            "14 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://tustincottagesapts.prospectportal.com/?module=check_availability&property[id]=163600&action=view_unit_spaces&property_floorplan[id]=292791&move_in_date=08/31/2016", 
+                "Name": "Plan D", 
+                "BED / BATH": "3bd\u00a0/ 2.5ba", 
+                "Rent": "$3,125", 
+                "Deposit": "$1,000", 
+                "sqft": "1,751", 
+                "unit lease": [
+                    {
+                        "unit_id": "3798647", 
+                        "Unit lease matrix url": "http://tustincottagesapts.prospectportal.com/?module=check_availability&property[id]=163600&action=view_unit_spaces&property_floorplan[id]=292791&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3798647", 
+                        "Lease Rent": [
+                            "$3,125", 
+                            "$3,125", 
+                            "$3,125"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "13 mo", 
+                            "14 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://tustincottagesapts.prospectportal.com/?module=check_availability&property[id]=163600&action=view_unit_spaces&property_floorplan[id]=292797&move_in_date=08/31/2016", 
+                "Name": "Plan E", 
+                "BED / BATH": "3bd\u00a0/ 2.5ba", 
+                "Rent": "$2,970", 
+                "Deposit": "$1,000", 
+                "sqft": "1,691", 
+                "unit lease": [
+                    {
+                        "unit_id": "3798630", 
+                        "Unit lease matrix url": "http://tustincottagesapts.prospectportal.com/?module=check_availability&property[id]=163600&action=view_unit_spaces&property_floorplan[id]=292797&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3798630", 
+                        "Lease Rent": [
+                            "$2,970", 
+                            "$2,970", 
+                            "$2,970"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "13 mo", 
+                            "14 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Vanoni Ranch", 
+        "address": "10676 Veronica Lane", 
+        "city": "Ventura", 
+        "state": "CA", 
+        "zip": "93004", 
+        "marketing_phone": "855-271-4643 ", 
+        "vanity_url": "http://www.esring.com/vanoni-ranch-ventura-ca/check-availability", 
+        "property_url": "http://vanoniranch.prospectportal.com/?module=property_info&property[id]=95589&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267192&move_in_date=08/31/2016", 
+                "Name": "One Bedroom Plan A", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$1,710 - $1,769", 
+                "Deposit": "$500", 
+                "sqft": "728", 
+                "unit lease": [
+                    {
+                        "unit_id": "3736005", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267192&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3736005", 
+                        "Lease Rent": [
+                            "$1,710", 
+                            "$1,910"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3735766", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267192&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3735766", 
+                        "Lease Rent": [
+                            "$1,734", 
+                            "$1,934"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3735805", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267192&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3735805", 
+                        "Lease Rent": [
+                            "$1,769", 
+                            "$1,969"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267194&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom Plan A", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,295 - $2,495", 
+                "Deposit": "$500", 
+                "sqft": "1,001", 
+                "unit lease": [
+                    {
+                        "unit_id": "3735890", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267194&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3735890", 
+                        "Lease Rent": [
+                            "$2,295", 
+                            "$2,495"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267196&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom Plan B", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,329 - $2,529", 
+                "Deposit": "$500", 
+                "sqft": "1,003", 
+                "unit lease": [
+                    {
+                        "unit_id": "3735837", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267196&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3735837", 
+                        "Lease Rent": [
+                            "$2,329", 
+                            "$2,529"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267198&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom Plan C", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,225", 
+                "Deposit": "$500", 
+                "sqft": "1,015", 
+                "unit lease": [
+                    {
+                        "unit_id": "3735983", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267198&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3735983", 
+                        "Lease Rent": [
+                            "$2,225", 
+                            "$2,425"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3735992", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267198&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3735992", 
+                        "Lease Rent": [
+                            "$2,225", 
+                            "$2,425"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3736008", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267198&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3736008", 
+                        "Lease Rent": [
+                            "$2,225", 
+                            "$2,425"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267200&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom Townhome", 
+                "BED / BATH": "2bd\u00a0/ 2.5ba", 
+                "Rent": "$2,325 - $2,525", 
+                "Deposit": "$500", 
+                "sqft": "1,102", 
+                "unit lease": [
+                    {
+                        "unit_id": "3735914", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267200&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3735914", 
+                        "Lease Rent": [
+                            "$2,325", 
+                            "$2,525"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267206&move_in_date=08/31/2016", 
+                "Name": "Three Bedroom Plan B", 
+                "BED / BATH": "3bd\u00a0/ 2ba", 
+                "Rent": "$2,505 - $2,705", 
+                "Deposit": "$500", 
+                "sqft": "1,324", 
+                "unit lease": [
+                    {
+                        "unit_id": "3735918", 
+                        "Unit lease matrix url": "http://vanoniranch.prospectportal.com/?module=check_availability&property[id]=95589&action=view_unit_spaces&property_floorplan[id]=267206&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3735918", 
+                        "Lease Rent": [
+                            "$2,505", 
+                            "$2,705"
+                        ], 
+                        "Lease Term": [
+                            "12 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Village Pointe", 
+        "address": "17171 Roscoe Blvd.", 
+        "city": "Northridge", 
+        "state": "CA", 
+        "zip": "91325", 
+        "marketing_phone": "877-828-9021", 
+        "vanity_url": "http://www.esring.com/village-pointe-northridge-ca/check-availability", 
+        "property_url": "http://villagepointeapts.prospectportal.com/?module=property_info&property[id]=62531&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207148&move_in_date=08/31/2016", 
+                "Name": "B1", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$1,558 - $2,158", 
+                "Deposit": "$600", 
+                "sqft": "630", 
+                "unit lease": [
+                    {
+                        "unit_id": "3283867", 
+                        "Unit lease matrix url": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207148&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3283867", 
+                        "Lease Rent": [
+                            "$1,558", 
+                            "$1,758", 
+                            "$1,758", 
+                            "$1,958", 
+                            "$1,958", 
+                            "$1,958", 
+                            "$2,158"
+                        ], 
+                        "Lease Term": [
+                            "13 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "3 mo", 
+                            "4 mo", 
+                            "5 mo", 
+                            "2 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3283889", 
+                        "Unit lease matrix url": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207148&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3283889", 
+                        "Lease Rent": [
+                            "$1,558", 
+                            "$1,758", 
+                            "$1,758", 
+                            "$1,958", 
+                            "$1,958", 
+                            "$1,958", 
+                            "$2,158"
+                        ], 
+                        "Lease Term": [
+                            "13 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "3 mo", 
+                            "4 mo", 
+                            "5 mo", 
+                            "2 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3283901", 
+                        "Unit lease matrix url": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207148&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3283901", 
+                        "Lease Rent": [
+                            "$1,558", 
+                            "$1,758", 
+                            "$1,758", 
+                            "$1,958", 
+                            "$1,958", 
+                            "$1,958", 
+                            "$2,158"
+                        ], 
+                        "Lease Term": [
+                            "13 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "3 mo", 
+                            "4 mo", 
+                            "5 mo", 
+                            "2 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207150&move_in_date=08/31/2016", 
+                "Name": "B2", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$1,578 - $2,208", 
+                "Deposit": "$600", 
+                "sqft": "650", 
+                "unit lease": [
+                    {
+                        "unit_id": "3283814", 
+                        "Unit lease matrix url": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207150&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3283814", 
+                        "Lease Rent": [
+                            "$1,578", 
+                            "$1,778", 
+                            "$1,778", 
+                            "$1,978", 
+                            "$1,978", 
+                            "$1,978", 
+                            "$2,178"
+                        ], 
+                        "Lease Term": [
+                            "13 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "3 mo", 
+                            "4 mo", 
+                            "5 mo", 
+                            "2 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3284033", 
+                        "Unit lease matrix url": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207150&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3284033", 
+                        "Lease Rent": [
+                            "$1,578", 
+                            "$1,778", 
+                            "$1,778", 
+                            "$1,978", 
+                            "$1,978", 
+                            "$1,978", 
+                            "$2,178"
+                        ], 
+                        "Lease Term": [
+                            "13 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "3 mo", 
+                            "4 mo", 
+                            "5 mo", 
+                            "2 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "3284012", 
+                        "Unit lease matrix url": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207150&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3284012", 
+                        "Lease Rent": [
+                            "$1,608", 
+                            "$1,808", 
+                            "$1,808", 
+                            "$2,008", 
+                            "$2,008", 
+                            "$2,008", 
+                            "$2,208"
+                        ], 
+                        "Lease Term": [
+                            "13 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "3 mo", 
+                            "4 mo", 
+                            "5 mo", 
+                            "2 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207156&move_in_date=08/31/2016", 
+                "Name": "C1", 
+                "BED / BATH": "2bd\u00a0/ 1ba", 
+                "Rent": "$1,805 - $2,405", 
+                "Deposit": "$700", 
+                "sqft": "750", 
+                "unit lease": [
+                    {
+                        "unit_id": "3283819", 
+                        "Unit lease matrix url": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207156&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3283819", 
+                        "Lease Rent": [
+                            "$1,805", 
+                            "$2,005", 
+                            "$2,005", 
+                            "$2,205", 
+                            "$2,205", 
+                            "$2,205", 
+                            "$2,405"
+                        ], 
+                        "Lease Term": [
+                            "13 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "3 mo", 
+                            "4 mo", 
+                            "5 mo", 
+                            "2 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207160&move_in_date=08/31/2016", 
+                "Name": "C2", 
+                "BED / BATH": "2bd\u00a0/ 1ba", 
+                "Rent": "$1,840 - $2,440", 
+                "Deposit": "$700", 
+                "sqft": "780", 
+                "unit lease": [
+                    {
+                        "unit_id": "3284009", 
+                        "Unit lease matrix url": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207160&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3284009", 
+                        "Lease Rent": [
+                            "$1,840", 
+                            "$2,040", 
+                            "$2,040", 
+                            "$2,240", 
+                            "$2,240", 
+                            "$2,240", 
+                            "$2,440"
+                        ], 
+                        "Lease Term": [
+                            "13 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "3 mo", 
+                            "4 mo", 
+                            "5 mo", 
+                            "2 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207166&move_in_date=08/31/2016", 
+                "Name": "D1", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$1,885 - $2,485", 
+                "Deposit": "$800", 
+                "sqft": "960", 
+                "unit lease": [
+                    {
+                        "unit_id": "3283918", 
+                        "Unit lease matrix url": "http://villagepointeapts.prospectportal.com/?module=check_availability&property[id]=62531&action=view_unit_spaces&property_floorplan[id]=207166&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3283918", 
+                        "Lease Rent": [
+                            "$1,885", 
+                            "$2,085", 
+                            "$2,085", 
+                            "$2,285", 
+                            "$2,285", 
+                            "$2,285", 
+                            "$2,485"
+                        ], 
+                        "Lease Term": [
+                            "13 mo", 
+                            "6 mo", 
+                            "7 mo", 
+                            "3 mo", 
+                            "4 mo", 
+                            "5 mo", 
+                            "2 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "West Park Village", 
+        "address": "11400 Rochester Ave.", 
+        "city": "Los Angeles", 
+        "state": "CA", 
+        "zip": "90025", 
+        "marketing_phone": "877-828-9095", 
+        "vanity_url": "http://www.esring.com/west-park-village-los-angeles-ca/check-availability", 
+        "property_url": "http://westparkvillageapt.prospectportal.com/?module=property_info&property[id]=53376&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://westparkvillageapt.prospectportal.com/?module=check_availability&property[id]=53376&action=view_unit_spaces&property_floorplan[id]=216662&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom Two Bath - Plan B", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$3,006", 
+                "Deposit": "$800", 
+                "sqft": "896", 
+                "unit lease": [
+                    {
+                        "unit_id": "3261882", 
+                        "Unit lease matrix url": "http://westparkvillageapt.prospectportal.com/?module=check_availability&property[id]=53376&action=view_unit_spaces&property_floorplan[id]=216662&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3261882", 
+                        "Lease Rent": [
+                            "$3,006", 
+                            "$3,006", 
+                            "$3,006", 
+                            "$3,006"
+                        ], 
+                        "Lease Term": [
+                            "9 mo", 
+                            "10 mo", 
+                            "11 mo", 
+                            "12 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://westparkvillageapt.prospectportal.com/?module=check_availability&property[id]=53376&action=view_unit_spaces&property_floorplan[id]=216668&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom Two Bath - Plan E", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,920", 
+                "Deposit": "$800", 
+                "sqft": "903+", 
+                "unit lease": [
+                    {
+                        "unit_id": "3261816", 
+                        "Unit lease matrix url": "http://westparkvillageapt.prospectportal.com/?module=check_availability&property[id]=53376&action=view_unit_spaces&property_floorplan[id]=216668&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3261816", 
+                        "Lease Rent": [
+                            "$2,920", 
+                            "$2,920", 
+                            "$2,920", 
+                            "$2,920"
+                        ], 
+                        "Lease Term": [
+                            "9 mo", 
+                            "10 mo", 
+                            "11 mo", 
+                            "12 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://westparkvillageapt.prospectportal.com/?module=check_availability&property[id]=53376&action=view_unit_spaces&property_floorplan[id]=216670&move_in_date=08/31/2016", 
+                "Name": "Two Bedroom Two Bath - Plan F", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$3,064", 
+                "Deposit": "$800", 
+                "sqft": "987", 
+                "unit lease": [
+                    {
+                        "unit_id": "3261739", 
+                        "Unit lease matrix url": "http://westparkvillageapt.prospectportal.com/?module=check_availability&property[id]=53376&action=view_unit_spaces&property_floorplan[id]=216670&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=3261739", 
+                        "Lease Rent": [
+                            "$3,064", 
+                            "$3,064", 
+                            "$3,064", 
+                            "$3,064"
+                        ], 
+                        "Lease Term": [
+                            "9 mo", 
+                            "10 mo", 
+                            "11 mo", 
+                            "12 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "name": "Urban Village", 
+        "address": "1081 Long Beach Blvd.", 
+        "city": "Long Beach", 
+        "state": "CA", 
+        "zip": "90813", 
+        "marketing_phone": "844-576-4260", 
+        "vanity_url": "http://www.esring.com/urban-village-long-beach-ca/check-availability", 
+        "property_url": "http://urbanvillage.prospectportal.com/?module=property_info&property[id]=206808&is_responsive_snippet=1&snippet_type=website&is_collapsed=0&", 
+        "floor_plan_list": [
+            {
+                "Available units URL": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445161&move_in_date=08/31/2016", 
+                "Name": "0 BD/1 BA-PLAN STUDIO A0", 
+                "BED / BATH": "Studio", 
+                "Rent": "$1,749 - $1,784", 
+                "Deposit": "$500", 
+                "sqft": "565", 
+                "unit lease": [
+                    {
+                        "unit_id": "4145889", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445161&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145889", 
+                        "Lease Rent": [
+                            "$1,749", 
+                            "$1,749", 
+                            "$1,749", 
+                            "$1,749", 
+                            "$1,749", 
+                            "$1,749", 
+                            "$1,749", 
+                            "$1,749", 
+                            "$1,749"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "4145896", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445161&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145896", 
+                        "Lease Rent": [
+                            "$1,784", 
+                            "$1,784", 
+                            "$1,784", 
+                            "$1,784", 
+                            "$1,784", 
+                            "$1,784", 
+                            "$1,784", 
+                            "$1,784", 
+                            "$1,784"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445163&move_in_date=08/31/2016", 
+                "Name": "1 BD/1 BA-PLAN A2.1", 
+                "BED / BATH": "1bd\u00a0/ 1ba", 
+                "Rent": "$1,915 - $2,000", 
+                "Deposit": "$500", 
+                "sqft": "712", 
+                "unit lease": [
+                    {
+                        "unit_id": "4145801", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445163&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145801", 
+                        "Lease Rent": [
+                            "$1,915", 
+                            "$1,915", 
+                            "$1,915", 
+                            "$1,915", 
+                            "$1,915", 
+                            "$1,915", 
+                            "$1,915", 
+                            "$1,915", 
+                            "$1,915"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "4145809", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445163&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145809", 
+                        "Lease Rent": [
+                            "$1,920", 
+                            "$1,920", 
+                            "$1,920", 
+                            "$1,920", 
+                            "$1,920", 
+                            "$1,920", 
+                            "$1,920", 
+                            "$1,920", 
+                            "$1,920"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "4145797", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445163&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145797", 
+                        "Lease Rent": [
+                            "$1,940", 
+                            "$1,940", 
+                            "$1,940", 
+                            "$1,940", 
+                            "$1,940", 
+                            "$1,940", 
+                            "$1,940", 
+                            "$1,940", 
+                            "$1,940"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445168&move_in_date=08/31/2016", 
+                "Name": "2 BD/2 BA-PLAN C1.1", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,525 - $2,575", 
+                "Deposit": "$700", 
+                "sqft": "1,073", 
+                "unit lease": [
+                    {
+                        "unit_id": "4145863", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445168&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145863", 
+                        "Lease Rent": [
+                            "$2,525", 
+                            "$2,525", 
+                            "$2,525", 
+                            "$2,525", 
+                            "$2,525", 
+                            "$2,525", 
+                            "$2,525", 
+                            "$2,525", 
+                            "$2,525"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "4145866", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445168&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145866", 
+                        "Lease Rent": [
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "4145868", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445168&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145868", 
+                        "Lease Rent": [
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565", 
+                            "$2,565"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }, 
+            {
+                "Available units URL": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445169&move_in_date=08/31/2016", 
+                "Name": "2 BD/2 BA-PLAN C2.1", 
+                "BED / BATH": "2bd\u00a0/ 2ba", 
+                "Rent": "$2,615 - $2,675", 
+                "Deposit": "$700", 
+                "sqft": "1,113", 
+                "unit lease": [
+                    {
+                        "unit_id": "4145875", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445169&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145875", 
+                        "Lease Rent": [
+                            "$2,615", 
+                            "$2,615", 
+                            "$2,615", 
+                            "$2,615", 
+                            "$2,615", 
+                            "$2,615", 
+                            "$2,615", 
+                            "$2,615", 
+                            "$2,615"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }, 
+                    {
+                        "unit_id": "4145877", 
+                        "Unit lease matrix url": "http://urbanvillage.prospectportal.com/?module=check_availability&property[id]=206808&action=view_unit_spaces&property_floorplan[id]=445169&move_in_date=08/31/2016&action=view_apartment_amenities&unit_space[id]=4145877", 
+                        "Lease Rent": [
+                            "$2,675", 
+                            "$2,675", 
+                            "$2,675", 
+                            "$2,675", 
+                            "$2,675", 
+                            "$2,675", 
+                            "$2,675", 
+                            "$2,675", 
+                            "$2,675"
+                        ], 
+                        "Lease Term": [
+                            "18 mo", 
+                            "15 mo", 
+                            "12 mo", 
+                            "11 mo", 
+                            "10 mo", 
+                            "9 mo", 
+                            "8 mo", 
+                            "7 mo", 
+                            "6 mo"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
